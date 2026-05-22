@@ -36,7 +36,8 @@ while True:
 # Close sockets
 client_socket.close()
 server_socket.close()
-
+```
+```
 2. Echo Client Program
 # echo_client.py
 import socket
